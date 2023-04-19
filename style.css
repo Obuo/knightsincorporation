@@ -260,7 +260,7 @@ a {
         font-size: 20px;
     }
 
-    .hero p, .sorry h1 {
+    .hero p, .sorry h1, .info a {
         font-size: 30px;
     }
     
