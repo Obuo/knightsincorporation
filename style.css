@@ -231,7 +231,7 @@ a {
 
 /*MEDIA QUERIES*/
 
-@media(min-width: 768px) {
+@media(max-width: 768px) {
     header .navbar, header nav, header nav ul , body, .board, .hero, .board p {
         display: block;
         text-align: center;
@@ -257,7 +257,7 @@ a {
     }
 
     .hero p, .sorry h1 {
-        font-size: 60px;
+        font-size: 30px;
     }
     
     .kikomando img {
