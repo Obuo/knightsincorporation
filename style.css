@@ -231,7 +231,7 @@ a {
 
 /*MEDIA QUERIES*/
 
-@media(max-width: 768px) {
+@media(min-width: 768px) {
     header .navbar, header nav, header nav ul , body, .board, .hero, .board p {
         display: block;
         text-align: center;
